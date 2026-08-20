@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm XX 👋
 
-<!--
-**xiix666/xiix666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+主要研究：
+- 🤖 
+- 🗺️ SLAM
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Sentry26
+RoboMaster 哨兵机器人导航框架
+
+- Point-LIO / LiDAR-Inertial Odometry
+- Nav2
+- Theta* Global Planner
+- MPC Controller
+- Dynamic Obstacle Perception
+- Terrain Traversal
+
+👉 [sentry26](https://github.com/xiix666/sentry26)
+
+### 🎮 Decision Simulator
+RoboMaster 决策仿真与 BehaviorTree 调试工具
+
+👉 [decision_sim](https://github.com/xiix666/decision_sim)
