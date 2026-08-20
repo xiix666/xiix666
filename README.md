@@ -1,7 +1,7 @@
 # Hi, I'm XX 👋
 
 主要研究：
-- 🤖 
+- 🤖 Robot
 - 🗺️ SLAM
 
 ## Projects
