@@ -1,4 +1,4 @@
-# Hi, I'm XX 👋
+# Hi, I'm Xi 👋
 
 主要研究：
 - 🤖 Robot
